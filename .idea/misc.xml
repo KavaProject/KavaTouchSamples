@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="JavadocGenerationManager">
-    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../../Repositories/local/javadoc/remote/kavatouch-doc" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../local/javadoc/remote/kavatouch-doc" />
     <option name="OPTION_SCOPE" value="protected" />
     <option name="OPTION_HIERARCHY" value="true" />
     <option name="OPTION_NAVIGATOR" value="true" />
