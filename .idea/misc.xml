@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="availableTasks">
+      <set>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles the outputs of this project." />
+          <option name="name" value="assemble" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles and tests this project." />
+          <option name="name" value="build" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+          <option name="name" value="buildDependents" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles and tests this project and all projects it depends on." />
+          <option name="name" value="buildNeeded" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Runs all checks." />
+          <option name="name" value="check" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles binary 'main'." />
+          <option name="name" value="classes" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Deletes the build directory." />
+          <option name="name" value="clean" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Compiles source set 'main:java'." />
+          <option name="name" value="compileJava" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Compiles source set 'test:java'." />
+          <option name="name" value="compileTestJava" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="name" value="create-dirs" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles a jar archive containing the main classes." />
+          <option name="name" value="jar" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Generates Javadoc API documentation for the main source code." />
+          <option name="name" value="javadoc" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Processes source set 'main:resources'." />
+          <option name="name" value="processResources" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Processes source set 'test:resources'." />
+          <option name="name" value="processTestResources" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Initializes a new Gradle build. [incubating]" />
+          <option name="name" value="setupBuild" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Runs the unit tests." />
+          <option name="name" value="test" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Assembles binary 'test'." />
+          <option name="name" value="testClasses" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="description" value="Uploads all artifacts belonging to configuration ':JDispatch:archives'" />
+          <option name="name" value="uploadArchives" />
+        </GradleTaskDescriptor>
+        <GradleTaskDescriptor>
+          <option name="name" value="wrapper" />
+        </GradleTaskDescriptor>
+      </set>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../../Repositories/local/javadoc/remote/kavatouch-doc" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
+    <option name="OTHER_OPTIONS" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OPTION_INCLUDE_LIBS" value="false" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="Android 4.2.2 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+

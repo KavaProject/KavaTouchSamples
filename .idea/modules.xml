@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KavaTouch/KavaTouch.iml" filepath="$PROJECT_DIR$/KavaTouch/KavaTouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KavaTouchSamples.iml" filepath="$PROJECT_DIR$/KavaTouchSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Touches/Touches.iml" filepath="$PROJECT_DIR$/Touches/Touches.iml" />
+    </modules>
+  </component>
+</project>
+
