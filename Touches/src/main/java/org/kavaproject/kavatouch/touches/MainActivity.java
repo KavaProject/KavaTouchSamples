@@ -2,6 +2,7 @@ package org.kavaproject.kavatouch.touches;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.Window;
 import org.kavaproject.kavatouch.DeviceHandle;
 import org.kavaproject.kavatouch.Injector;
 import org.kavaproject.kavatouch.coreanimation.SurfaceViewAnimationEngine;
@@ -12,6 +13,7 @@ public class MainActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
         SurfaceViewAnimationEngine animationEngine = new SurfaceViewAnimationEngine(this) {
             @Override
             public Session getSession(DeviceHandle deviceHandle) {
