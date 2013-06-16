@@ -1,0 +1,1 @@
+This sample depends on the Guice library, which is included as a jar-file. Guice is a dependency injection framework for Java by Google. It is licensed under the Apache License, Version 2.0 <LICENSE-APACHE or http://www.apache.org/licenses/LICENSE-2.0>. The source code can be found at: http://code.google.com/p/google-guice/

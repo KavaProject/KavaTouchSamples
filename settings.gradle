@@ -1,1 +1,1 @@
-include ':KavaTouch', ':Touches', ':HelloWorld'
+include ':KavaTouch', ':Touches', ':HelloWorld', ':HelloGuice'

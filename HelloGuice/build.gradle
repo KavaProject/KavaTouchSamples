@@ -1,0 +1,25 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.4'
+    }
+}
+apply plugin: 'android'
+
+dependencies {
+    compile(project(":KavaTouch"))
+    compile fileTree(dir: 'libs', include: 'guice-3.0-no_aop.jar') 
+    compile fileTree(dir: 'libs', include: 'javax.inject-1.jar') 
+}
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "17.0.0"
+
+    defaultConfig {
+        minSdkVersion 10
+        targetSdkVersion 17
+    }
+}

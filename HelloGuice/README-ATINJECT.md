@@ -1,0 +1,1 @@
+This sample depends on the atinject library, which is included as a jar-file. atinject provides an implemtation of JSR-330: Dependency Injection for Java. It is licensed under the Apache License, Version 2.0 <LICENSE-APACHE or http://www.apache.org/licenses/LICENSE-2.0>. The source code can be found at: http://code.google.com/p/atinject/

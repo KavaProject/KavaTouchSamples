@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloGuice/HelloGuice.iml" filepath="$PROJECT_DIR$/HelloGuice/HelloGuice.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/KavaTouch/KavaTouch.iml" filepath="$PROJECT_DIR$/KavaTouch/KavaTouch.iml" />
       <module fileurl="file://$PROJECT_DIR$/KavaTouchSamples.iml" filepath="$PROJECT_DIR$/KavaTouchSamples.iml" />
